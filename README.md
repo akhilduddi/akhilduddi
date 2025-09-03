@@ -6,6 +6,7 @@
 ### 👨‍💻 About Me
 - 🌱 Learning **React.js, MongoDB, Node.js, and advanced MERN stack development**  
 - 💻 Building real-world full-stack applications that solve problems  
+- 🏢 Experience: **Junior Fullstack Developer at Koderspark**  
 - 📚 Continuously improving skills in **frontend, backend, and database technologies**  
 - ⚡ Fun fact: *I sometimes compose music beats while coding!*  
 
@@ -68,11 +69,6 @@
 - ✅ Master the **MERN stack** and build full-fledged applications  
 - ✅ Contribute to **open-source projects** and collaborate with global developers  
 - ✅ Secure a **full-stack developer role** in a reputed organization  
-
----
-
-### 📣 Special Thanks
-🙏 My college faculty, especially my inspiration **Sirisa Moturi**
 
 ---
 
